@@ -1,0 +1,4 @@
+Grün: https://www.reichelt.de/de/de/shop/produkt/led_smd_3013_gruen_8_mcd_140_-18709
+Gelb: https://www.reichelt.de/de/de/shop/produkt/led_smd_0603_blau_100_mcd_120_-34224
+Rot: https://www.reichelt.de/de/de/shop/produkt/led_smd_3013_rot_15_mcd_140_-18710
+Blau: https://www.reichelt.de/de/de/shop/produkt/led_smd_3528_plcc-2_blau_150_mcd_120_-231797
