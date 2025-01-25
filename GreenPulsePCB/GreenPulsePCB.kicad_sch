@@ -1982,7 +1982,7 @@
 			)
 		)
 	)
-	(global_label "OUT1"
+	(global_label "OUT2"
 		(shape input)
 		(at 55.88 21.59 0)
 		(fields_autoplaced yes)
@@ -2004,7 +2004,7 @@
 			)
 		)
 	)
-	(global_label "OUT2"
+	(global_label "OUT1"
 		(shape input)
 		(at 55.88 24.13 0)
 		(fields_autoplaced yes)
